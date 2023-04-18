@@ -1,0 +1,19 @@
+/* configurações */
+@import url(configs/normalize.css);
+@import url(configs/reset.css);
+@import url(configs/fonts.css);
+@import url(configs/colors.css);
+
+
+/* layout */
+
+@import url(layouts/layout-desktop.css);
+@import url(layouts/layout-mobile.css);
+
+/* background of page */
+
+html {
+   background-image: url(../images/5415687.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
